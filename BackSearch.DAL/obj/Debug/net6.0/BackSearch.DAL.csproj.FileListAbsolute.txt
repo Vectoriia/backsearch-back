@@ -1,0 +1,14 @@
+D:\dz\PvI\kr\BackSearchWebApi\BackSearch.DAL\bin\Debug\net6.0\BackSearch.DAL.deps.json
+D:\dz\PvI\kr\BackSearchWebApi\BackSearch.DAL\bin\Debug\net6.0\BackSearch.DAL.runtimeconfig.json
+D:\dz\PvI\kr\BackSearchWebApi\BackSearch.DAL\bin\Debug\net6.0\BackSearch.DAL.dll
+D:\dz\PvI\kr\BackSearchWebApi\BackSearch.DAL\bin\Debug\net6.0\BackSearch.DAL.pdb
+D:\dz\PvI\kr\BackSearchWebApi\BackSearch.DAL\obj\Debug\net6.0\BackSearch.DAL.csproj.AssemblyReference.cache
+D:\dz\PvI\kr\BackSearchWebApi\BackSearch.DAL\obj\Debug\net6.0\BackSearch.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\dz\PvI\kr\BackSearchWebApi\BackSearch.DAL\obj\Debug\net6.0\BackSearch.DAL.AssemblyInfoInputs.cache
+D:\dz\PvI\kr\BackSearchWebApi\BackSearch.DAL\obj\Debug\net6.0\BackSearch.DAL.AssemblyInfo.cs
+D:\dz\PvI\kr\BackSearchWebApi\BackSearch.DAL\obj\Debug\net6.0\BackSearch.DAL.csproj.CoreCompileInputs.cache
+D:\dz\PvI\kr\BackSearchWebApi\BackSearch.DAL\obj\Debug\net6.0\BackSearch.DAL.dll
+D:\dz\PvI\kr\BackSearchWebApi\BackSearch.DAL\obj\Debug\net6.0\refint\BackSearch.DAL.dll
+D:\dz\PvI\kr\BackSearchWebApi\BackSearch.DAL\obj\Debug\net6.0\BackSearch.DAL.pdb
+D:\dz\PvI\kr\BackSearchWebApi\BackSearch.DAL\obj\Debug\net6.0\BackSearch.DAL.genruntimeconfig.cache
+D:\dz\PvI\kr\BackSearchWebApi\BackSearch.DAL\obj\Debug\net6.0\ref\BackSearch.DAL.dll

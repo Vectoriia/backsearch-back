@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uhbI3EI19oSVKPHfEneNYIqkBRFr2c6xMUXBUW2YCdY=",
+  "Source": "BackSearchWebApi",
+  "BasePath": "_content/BackSearchWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
